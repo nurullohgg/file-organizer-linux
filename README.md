@@ -9,21 +9,21 @@ Creates ~/linuxproject automatically
 
 Creates category folders like:
 
-Images
+  Images
 
-Videos
+  Videos
 
-Music
+  Music
 
-Documents
+  Documents
 
-Archives
+  Archives
 
-Programming
+  Programming
 
-Scripts
+  Scripts
 
-Others
+  Others
 
 Detects many common file types
 
@@ -33,8 +33,3 @@ Creates a log file (organizer.log)
 
 Easy to run and understand
 
-How to Run
-
-Download or clone the project
-
-Make the script executable:
